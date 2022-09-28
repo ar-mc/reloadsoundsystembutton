@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reloadsoundsystembtn",
+  "name": "Reload Sound System Button",
+  "description": "A button called reload sound system appears in your menu.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Arne"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
